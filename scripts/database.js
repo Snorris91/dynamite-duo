@@ -14,12 +14,23 @@ const database = {
     villains: [
         {
             id: 1,
-            name: "Fyre",
+            name: "Ace",
             power: "Combustion"
         },
         {
-            
-
+            id: 1,
+            name: "Enel",
+            power: "Lightning"
+        },
+        {
+            id: 1,
+            name: "Teach",
+            power: "Darkness"
+        },
+        {
+            id: 1,
+            name: "Antlers",
+            power: "Reindeer"
         },
     ]
 }
